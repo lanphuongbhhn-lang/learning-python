@@ -1,5 +1,7 @@
 # learning-python
 <img width="824" height="652" alt="image" src="https://github.com/user-attachments/assets/2e6f9777-c860-48ad-984e-6a23a4141bac" />
+<img width="767" height="559" alt="image" src="https://github.com/user-attachments/assets/398326f4-d852-41e3-9ca7-5c8ad2ac6987" />
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
